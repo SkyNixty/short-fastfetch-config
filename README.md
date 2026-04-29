@@ -6,7 +6,10 @@ See the configuration file here: [config.jsonc](config.jsonc)
 
 ## Preview
 
-![Preview](Preview.png)
+<p float="left">
+  <img src="Preview.png" width="500" />
+  <img src="Preview2.png" width="500" />
+</p>
 
 ## Install script
 
