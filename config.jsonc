@@ -11,6 +11,6 @@
     "cpu",
     "gpu",
     "memory",
-    "swap",
+    "swap"
   ]
 }
