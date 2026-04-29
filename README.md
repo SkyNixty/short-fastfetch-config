@@ -1,6 +1,10 @@
-# short-fasfetch-config
+# short-fastfetch-config
 
 A cleaner, minimal config for Fastfetch that keeps the “vanilla” feel.
+
+## Preview
+
+![Preview](Preview.png)
 
 ## License
 
