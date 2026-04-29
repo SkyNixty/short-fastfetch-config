@@ -2,6 +2,8 @@
 
 A cleaner, minimal config for Fastfetch that keeps the “vanilla” feel.
 
+See the configuration file here: [config.jsonc](config.jsonc)
+
 ## Preview
 
 ![Preview](Preview.png)
