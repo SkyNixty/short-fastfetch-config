@@ -5,9 +5,10 @@ A clean, minimal config for fastfetch that keeps the vanilla feel.
 See the configuration file here: [config.jsonc](config.jsonc)
 
 This repo is still not finished!
-TODO: 
-[ ] Add terminal name to the preview 
-[ ] Add more major distro previews
+
+TO DO: 
+* Add terminal name to the preview 
+* Add more major distro previews
 
 ## Preview
 
