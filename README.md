@@ -1,6 +1,6 @@
 # short-fastfetch-config
 
-A clean, minimal config for fastfetch that keeps the vanilla feel.
+A clean, minimal config for fastfetch that keeps the vanilla feel. This config is designed specifically for Arch's small fastfetch logo, although it looks alright with other distros.
 
 See the configuration file here: [config.jsonc](config.jsonc)
 
