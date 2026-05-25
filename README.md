@@ -7,15 +7,17 @@ See the configuration file here: [config.jsonc](config.jsonc)
 This repo is still not finished!
 
 TO DO: 
-* Add terminal name to the preview 
+* ~~Add terminal name to the preview~~
 * Add more major distro previews
 
-## Preview
+## Arch preview [blackbox]
 
-<p float="left">
-  <img src="Preview.png" width="500" />
-  <img src="Preview2.png" width="500" />
-</p>
+<img src="Preview.png" width="500" />
+
+## Other distro previews [ptyxis]
+
+<img src="Preview2.png" width="500" />
+
 
 ## Install script
 
