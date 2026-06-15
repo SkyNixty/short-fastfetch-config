@@ -14,8 +14,8 @@ This repo is still not finished!
 
 <img src="Preview.png" width="600" />
 
-## Other distro previews [ptyxis]
-
+## Other distro previews [konsole and ptyxis]
+<img src="Preiew1.png" width="600" />
 <img src="Preview2.png" width="600" />
 
 
